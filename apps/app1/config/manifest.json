@@ -1,0 +1,13 @@
+{
+	"name": "app1",
+	"version": "0.0.1",
+	"manifestVersion": "1.0.0",
+	"packageName": "com.example.app1",
+	"shortDescription": "",
+	"entry": "/app/apps/app1/assets/remoteEntry.js",
+	"render": {
+		"": {
+			"remote": "hello"
+		}
+	}
+}
